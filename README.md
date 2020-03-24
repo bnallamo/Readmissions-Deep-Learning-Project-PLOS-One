@@ -7,3 +7,5 @@ This paper is available at: *[link will be added after publication]*
 The final paper and supplemntary materials can be found in [Manuscript and Supplement](https://github.com/bnallamo/Readmissions-Deep-Learning-Project-PLOS-One/tree/master/Manuscript%20and%20Supplement)
 
 This study was conducted with support from [MiCHAMP](https://michamp.med.umich.edu).
+
+Corresponding author is [Dr. Brahmajee Nallamothu](bnallamo@med.umich.edu)
